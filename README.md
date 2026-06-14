@@ -4,7 +4,6 @@ Orbit is an exceptional, highly responsive multi-agent AI assistant workspace bu
 
 ## 🚀 Live Deployments
 - **Primary Interface:** [https://pathazotefoams.netlify.app/](https://pathazotefoams.netlify.app/)
-- **Alternative Variant:** [https://pathbzotefoamsaura.netlify.app/](https://pathbzotefoamsaura.netlify.app/)
 
 ## 🛠️ Tech Stack & Architecture
 - **Framework:** React 18 & TypeScript
